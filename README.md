@@ -1,0 +1,1 @@
+# flet_inventory_app
